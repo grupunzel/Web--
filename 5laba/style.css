@@ -1,0 +1,95 @@
+#top {
+    background-color: rgb(215, 234, 250);
+    height: 29px;
+    width: 1000px;
+    color: rgb(215, 234, 250);
+}
+
+.div {
+    display: inline-flex;
+}
+
+#div2-1 {
+    height: 102px;
+    width: 250px;
+    margin-left: 20px;
+    background-color: rgb(255, 249, 143);
+    color:rgb(255, 249, 143);
+}
+
+#div2-2 {
+    height: 102px;
+    width: 705px;
+    background-color: rgb(255, 152, 139);
+    color: rgb(255, 152, 139);
+}
+
+#div34 {
+    background-color: rgb(240, 239, 239);
+    width: 1000px;
+}
+
+#div3 {
+    height: 230px;
+    width: 980px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgb(174, 255, 139);
+    color: rgb(174, 255, 139); 
+}
+
+#div4-1 {
+    height: 300px;
+    width: 300px;
+    margin-left: 20px;
+    background-color: rgb(255, 176, 72);
+    color: rgb(255, 176, 72);
+}
+
+#div4-2 {
+    height: 300px;
+    width: 655px;
+    background-color: #e18fff;
+    color: #e18fff;
+}
+
+#div5 {
+    background-color: #d8d8d8;
+    width: 1000px;
+}
+
+#div5-1 {
+    height: 230px;
+    width: 300px;
+    margin-left: 20px;
+    background-color: rgb(255, 90, 72);
+    color: rgb(255, 90, 72);
+}
+
+#div5-2 {
+    height: 230px;
+    width: 218px;
+    background-color: rgb(255, 167, 59);
+    color: rgb(255, 167, 59);
+}
+
+#div5-3 {
+    height: 230px;
+    width: 217px;
+    background-color: rgb(135, 229, 255);
+    color: rgb(135, 229, 255);
+}
+
+#div5-4 {
+    height: 230px;
+    width: 220px;
+    background-color: rgb(255, 129, 50);
+    color: rgb(255, 129, 50);
+}
+
+#bottom {
+    height: 70px;
+    width: 1000px;
+    background-color: rgb(64, 64, 64);
+    color: rgb(64, 64, 64);
+}
